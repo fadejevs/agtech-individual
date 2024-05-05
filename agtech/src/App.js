@@ -1,23 +1,16 @@
+import React from 'react';
+import Weather from './Weather';
+import Education from './Education';
 import './App.css';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Hello world .
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Farmer Education SaaS</h1>
+      {/* <Weather />
+      <Education /> */}
     </div>
   );
-}
+};
 
 export default App;
