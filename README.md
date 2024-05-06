@@ -8,3 +8,4 @@
 3. Run "npm start", this will start the development server
 4. Open "http://localhost:3000" in your browser
 
+![Overview](https://i.gyazo.com/893a2d306adea146ff26d889ca7838b0.png)
